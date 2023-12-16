@@ -161,6 +161,10 @@ html {
     position: relative;
 }
 
+#slider .slider-img{
+    width: 100%;
+}
+
 #slider .text-content {
     position: absolute;
     color: #fff;
